@@ -1,3 +1,8 @@
+## Remarks
+![Screenshot](bug-1.png)
+![Screenshot](bug-2.png)
+![Screenshot](bug-3.png)
+
 ## Backend Assessment Test
 ### Setup procedure
 1. Checkout a new feature branch from `master`
